@@ -1,6 +1,7 @@
 pizza
 tacos
 beans
+yogurt
 groundhog day
 lord of the rings
 2001
