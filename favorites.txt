@@ -1,8 +1,5 @@
-pizza
-tacos
-beans
+FOOD	MOVIES
+pizza	groundhog day
+tacos	lord of the rings
+beans	2001
 yogurt
-groundhog day
-lord of the rings
-2001
-test
