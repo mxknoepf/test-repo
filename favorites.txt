@@ -1,5 +1,5 @@
-FOOD	MOVIES
-pizza	groundhog day
-tacos	lord of the rings
-beans	2001
-yogurt
+FOOD	MOVIES			ALBUMS
+pizza	groundhog day		The Suburbs
+tacos	lord of the rings	Strange Trails
+beans	2001			Lonesome Dreams
+yogurt				Aperture
